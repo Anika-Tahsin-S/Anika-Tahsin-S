@@ -4,9 +4,9 @@ I am pursuing my Master’s in Computer Science at BRAC University, where I also
 
 
 I enjoy combining research with hands-on development and am eager to collaborate on impactful, interdisciplinary projects at the intersection of computer vision, bioinformatics, and multimodal AI.
-<p class="text-center">
+<!-- <p class="text-center">
   <span style="color:#dc3545; font-weight:700">Currently looking for PhD opportunities.
-</p>
+</p> -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anika-Tahsin-S&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
